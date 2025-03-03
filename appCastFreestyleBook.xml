@@ -3,12 +3,13 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.1.4</title>
-            <description>1. Programme ambassadeurs 2025 ouvert jusqu'au 28 Février 2025
-2. Nouveau parc partenaire : UP2PLAY
+            <title>Version 1.1.5</title>
+            <description>1. Nouveau partenaire : retrouvez EuroTamp Projects dans nos partenaires pour le trampo freestyle !
+2. Nouveaux codes promos chez certains partenaires
+3. Améliorations du démarrage de l'application
             </description>
-            <pubDate>Wed, 1 Fev 2025 10:30:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.gtramp.stable" sparkle:version="1.1.4" sparkle:os="android" />
+            <pubDate>Mon, 3 March 2025 10:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.gtramp.stable" sparkle:version="1.1.5" sparkle:os="android" />
         </item>
     </channel>
 </rss>
