@@ -3,13 +3,24 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.1.5</title>
-            <description>1. Nouveau partenaire : retrouvez EuroTamp Projects dans nos partenaires pour le trampo freestyle !
-2. Nouveaux codes promos chez certains partenaires
-3. Améliorations du démarrage de l'application
+            <title>Version 1.1.6</title>
+            <description>1. La trottinette freestyle fait son apparition dans l'appli ! 
+Retrouve les fonctionnalités suivantes : 
+- Tricks Book
+- Game Of SCOOT
+- Agenda des événements 
+- Carte des skateparks 
+- Sessions
+- Marques partenaires 
+- Score
+
+2. MAJ des fonds de tous les sports
+3. Ajout de la fonctionnalité ''Sessions'' pour le "Trampo freestyle''
+4. MAJ de quelques codes promos 
+5. Mise à niveau lors de l'ouverture de l'application
             </description>
-            <pubDate>Mon, 3 March 2025 10:30:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.gtramp.stable" sparkle:version="1.1.5" sparkle:os="android" />
+            <pubDate>Mer, 2 Avril 2025 11:30:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.gtramp.stable" sparkle:version="1.1.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
